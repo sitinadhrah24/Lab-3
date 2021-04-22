@@ -1,28 +1,30 @@
-<!-- blockquote{
+<!-- 
+
+1. blockquote{
     font-family: Arial, Times New Roman, sans-serif;
 }  
 
- p {font-size:12pt}
+2. p {font-size:12pt}
  
-h1,h2,h3,h4,h5,h6{
+3. h1,h2,h3,h4,h5,h6{
     text-decoration-line: underline;
     text-transform: uppercase;
 }
 
-p{
+4. p{
     text-align: center;
     font-weight: bold;
     font-style: italic;
 }
 
-ul{
+5. ul{
     
     background-image: url(list.gif);
     background-position: center;
     
 }
 
-ol{
+6. ol{
     list-style-type: decimal;
 }
 
